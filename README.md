@@ -50,7 +50,7 @@ This section details the steps required to set up and run the frontend of the Ki
 
 1.  **Navigate to the Frontend Directory:**
     ```bash
-    cd kinetiq-frontend
+    cd frontend
     ```
 
 2.  **Install Dependencies:**
